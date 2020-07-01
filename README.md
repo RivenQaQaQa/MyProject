@@ -1,3 +1,5 @@
 # MyProject
-Game of shoot
-222222222222222222
+ I use the unity engine to write this game. It can only be run on the PC side, without using a database or networking
+  Use WSAD to operate character movement, press R key to change bullet, press space bar to jump, press Ctrl key to squat down, click left mouse button to shoot, press right mouse button to accelerate walking but unable to shoot, press ESC key to adjust mouse sensitivity and sound size. Size initial character has 100 hp and 150 bullets. For a while, some zombies and supply boxes will be on the map. When the player is within a certain range of zombies, zombies will run to the players to launch attacks, and players shooting zombies will make the zombies pause temporarily. Players can get health, bullets and special effects weapons by picking up boxes on the map. Every time a big boss appears on the map. When the blood volume is 0, the game ends. After that, you can choose to try again or quit the game.
+  
+Because it can't exceed 100MB, I adjusted the picture quality to the lowest.
